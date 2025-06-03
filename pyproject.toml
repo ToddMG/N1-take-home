@@ -1,0 +1,13 @@
+[project]
+name = "takehome"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "geopandas>=1.1.0",
+    "ipykernel>=6.29.5",
+    "missingno>=0.5.2",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+]
